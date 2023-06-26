@@ -9,9 +9,17 @@ namespace Products
         public List<Product> Items { get; }
 
 
-       // public delegate void Action<in T>(T obj);
-       // public delegate void NotifyAddedProduct(Product product);
-       // public delegate void NotifyOfSalePercent(decimal sale, decimal summOfSale);
+        private readonly INotificationService _notificationService;
+        private readonly ISaleCalculationService _saleCalculationService;
+    
+       
+    
+        public ProductCard(List<Product> products, INotificationService notificationService, ISaleCalculationService saleCalculationService)
+        {
+            Items = products;
+            _notificationService = notificationService;
+            _saleCalculationService = saleCalculationService;
+        }
         
 
         private readonly Action<Product> _notifyAddedProduct;
@@ -37,7 +45,9 @@ namespace Products
         {
             Items = products;
         }
+
         
+
         public void AddProduct(Product product)
         {   
             Items.Add(product);
