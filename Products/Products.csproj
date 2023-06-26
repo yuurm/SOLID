@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net5.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Library\Library.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Remove="FiguresExsteinsions.cs" />
+      <Compile Remove="mails\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Remove="mails\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="mails\**" />
+    </ItemGroup>
+
+</Project>

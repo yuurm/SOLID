@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=89f58ccb_002D6ebc_002D40fd_002D8c0c_002Dd25e85a8587d_0023WpfApp1/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=a07e485c_002D3d76_002D4c63_002Da25e_002Df1ceb614b52c_0023ThreadTest/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=b785dce5_002Dacec_002D40ab_002Da171_002D4462ef43cf5a_0023ConsoleApp1/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=459cca21_002D5be8_002D4e9d_002D8b95_002D4191915c2532_0023ConsoleApp2/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=06fa9d8f_002D83b6_002D478d_002D9def_002D9a89dc04f656_0023ConsoleApp3/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=d94392f0_002D9ef9_002D4ff6_002Dab8d_002De546d8727437_0023ConsoleApp4/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=3c553c86_002Dbd93_002D47d6_002D9d47_002Db89e3246992b_0023ConsoleApp5/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=d652b388_002Da65f_002D4a3b_002D91fc_002D28a97535e8e8_0023Figures/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=4fe9098d_002Dffa9_002D4bcc_002Dba96_002D5d44985cd373_0023Library/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=6c033444_002D907b_002D43b9_002D901a_002D4acf789b65c2_0023ConsoleApp6Array/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/UnloadedProject/UnloadedProjects/=feabd463_002De443_002D46d0_002Da6f2_002D8e9e9704b8b2_0023TransportPayment/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>
